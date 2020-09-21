@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Kenny\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Kenny\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_SHUMP3D.80379805.00" t="ExcludeRecursive" />
+    <e p="E:\Skrivbord\Projects\Futuregames\SHUMP3D" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="__Game" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Audio" t="Include">
+              <e p="MusicIntesity.cs" t="Include" />
+            </e>
+            <e p="Camera" t="Include">
+              <e p="FreezeCamera.cs" t="Include" />
+              <e p="ScreenShake.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="ObjectPoolEditorWindow.cs" t="Include" />
+              <e p="WeaponCreator.cs" t="Include" />
+            </e>
+            <e p="Effects" t="Include">
+              <e p="ParticleOnEnable.cs" t="Include" />
+              <e p="ScrollingTexture.cs" t="Include" />
+            </e>
+            <e p="Enemies" t="Include">
+              <e p="EnemyConstrainer.cs" t="Include" />
+              <e p="EnemyFire.cs" t="Include" />
+              <e p="MeeleEnemy.cs" t="Include" />
+            </e>
+            <e p="Health.cs" t="Include" />
+            <e p="Input" t="Include">
+              <e p="ControllerDetection.cs" t="Include" />
+              <e p="InputManager.cs" t="Include" />
+              <e p="PlayerInput.cs" t="Include" />
+            </e>
+            <e p="Interfaces" t="Include">
+              <e p="IPickup.cs" t="Include" />
+              <e p="IShield.cs" t="Include" />
+              <e p="IWeapon.cs" t="Include" />
+            </e>
+            <e p="Managers" t="Include">
+              <e p="EnemySpawner.cs" t="Include" />
+              <e p="GameEvents.cs" t="Include" />
+              <e p="GameManager.cs" t="Include" />
+              <e p="ObjectPool.cs" t="Include" />
+              <e p="PickupSpawner.cs" t="Include" />
+              <e p="ShowHighScore.cs" t="Include" />
+              <e p="UIManager.cs" t="Include" />
+            </e>
+            <e p="Movement" t="Include">
+              <e p="ForwardMovement.cs" t="Include" />
+              <e p="SineBasedMovement.cs" t="Include" />
+              <e p="SineLevitate.cs" t="Include" />
+            </e>
+            <e p="Pickups" t="Include">
+              <e p="PickupConstrainer.cs" t="Include" />
+              <e p="PickupHealth.cs" t="Include" />
+              <e p="PickupWeapon.cs" t="Include" />
+              <e p="YRotator.cs" t="Include" />
+            </e>
+            <e p="Player" t="Include">
+              <e p="LeaningRotationPlayer.cs" t="Include" />
+              <e p="PlayerMovement.cs" t="Include" />
+              <e p="PlayerWeapon.cs" t="Include" />
+            </e>
+            <e p="ScriptableObjects" t="Include">
+              <e p="HighScore.cs" t="Include" />
+              <e p="HitScanWeapon.cs" t="Include" />
+              <e p="HomingWeapon.cs" t="Include" />
+              <e p="Options.cs" t="Include" />
+              <e p="ProjectileWeapon.cs" t="Include" />
+              <e p="SOShield.cs" t="Include" />
+            </e>
+            <e p="Shield" t="Include">
+              <e p="Shield.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="ControllIcons.cs" t="Include" />
+              <e p="FireRateDisplay.cs" t="Include" />
+              <e p="ShieldDisplay.cs" t="Include" />
+            </e>
+            <e p="Weapons" t="Include">
+              <e p="HitScan.cs" t="Include" />
+              <e p="Homing.cs" t="Include" />
+              <e p="Projectile.cs" t="Include" />
+              <e p="WeaponTemplete.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="SHUMP3D.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

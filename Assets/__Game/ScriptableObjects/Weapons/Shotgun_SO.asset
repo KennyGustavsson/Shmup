@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e0869090af0cec4f9e4efe2ed3d3451, type: 3}
+  m_Name: Shotgun_SO
+  m_EditorClassIdentifier: 
+  damage: 2
+  speed: 30
+  damageableLayer:
+    serializedVersion: 2
+    m_Bits: 512
+  idShotEffect: 1
+  idHitEffect: 2
+  shootSound:
+  - {fileID: 8300000, guid: fba7181d730a3254181f551afef47c7a, type: 3}
+  - {fileID: 8300000, guid: fbf7eb8d5eea51d42b36af658df2222d, type: 3}
+  - {fileID: 8300000, guid: 62415fec12d7a0d4681e99d7b2d1b44e, type: 3}

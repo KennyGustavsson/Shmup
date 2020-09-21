@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22e76166-5e98-48b5-8e73-2b5b0709b8d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2094A731-351D-475D-BA68-F5920DE30ED8/8c/391fc3d3/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Interfaces/IShield.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Pickups/PickupConstrainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Player/LeaningRotationPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Weapons/HitScan.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.0.0/InputSystem/Actions/InputActionState.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Enemies/MeeleEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Weapons/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Camera/FreezeCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Pickups/PickupWeapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.0.0/InputSystem/Utilities/DelegateHelpers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/ScriptableObjects/HighScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Pickups/YRotator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Input/InputManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/ScriptableObjects/SOShield.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Managers/GameEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Editor/WeaponCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Editor/ObjectPoolEditorWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/ScriptableObjects/Options.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Managers/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Managers/ShowHighScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Weapons/WeaponTemplete.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Game/Scripts/Managers/PickupSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Enemies/SineBasedMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/ScreenShake.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/SinRotate.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/SineLevitate.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/FireRateDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/UI/ForUpperCase.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/UI/ForceUpperCase.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Managers/GameEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Pickups/XRotator.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Audio/MusicIntesity.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Camera/FreezeCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Camera/ScreenShake.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Editor/ObjectPoolEditorWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Effects/ParticleOnEnable.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Effects/ScrollingTexture.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Enemies/EnemyConstrainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Enemies/EnemyFire.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Enemies/MeeleEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Input/ControllerDetection.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Interfaces/IPickup.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Interfaces/IShield.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Managers/EnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Managers/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Managers/PickupSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Managers/ShowHighScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Managers/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Movement/ForwardMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Movement/SineBasedMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Movement/SineLevitate.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Pickups/PickupWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Pickups/YRotator.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Player/PlayerWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Player/RotatePlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Player/LeaningRotationPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Player/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/ScriptableObjects/HighScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/ScriptableObjects/HomingWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/ScriptableObjects/Options.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/ScriptableObjects/ProjectileWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/ScriptableObjects/SOShield.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/UI/ControllIcons.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/UI/FireRateDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/UI/ShieldDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Weapons/HitScan.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Weapons/Homing.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Weapons/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Weapons/WeaponTemplete.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Shield/Shield.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Editor/WeaponCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Pickups/PickupHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Game/Scripts/Health.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hEaKe3TM972XFyossCmM2h7xTv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../shumpBuild\SHUMP3D.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="E:\Skrivbord\shumpBuild" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22e76166-5e98-48b5-8e73-2b5b0709b8d5" name="Default Changelist" comment="" />
+      <created>1599578711718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599578711718</updated>
+      <workItem from="1599578723966" duration="8144000" />
+      <workItem from="1599594410576" duration="5158000" />
+      <workItem from="1599646987286" duration="1214000" />
+      <workItem from="1599654841104" duration="16791000" />
+      <workItem from="1599726053561" duration="13006000" />
+      <workItem from="1599825133686" duration="11040000" />
+      <workItem from="1599940255479" duration="4564000" />
+      <workItem from="1599999789917" duration="14772000" />
+      <workItem from="1600029718630" duration="935000" />
+      <workItem from="1600078760014" duration="15508000" />
+      <workItem from="1600184230619" duration="5227000" />
+      <workItem from="1600254177185" duration="11395000" />
+      <workItem from="1600271361406" duration="11705000" />
+      <workItem from="1600334584963" duration="17618000" />
+      <workItem from="1600384171411" duration="3366000" />
+      <workItem from="1600429089565" duration="7000000" />
+      <workItem from="1600437584966" duration="1984000" />
+      <workItem from="1600439604838" duration="2041000" />
+      <workItem from="1600444805938" duration="6711000" />
+      <workItem from="1600457824503" duration="2375000" />
+      <workItem from="1600476081492" duration="909000" />
+      <workItem from="1600540420620" duration="3491000" />
+      <workItem from="1600558316931" duration="8698000" />
+      <workItem from="1600602886614" duration="18341000" />
+      <workItem from="1600679016443" duration="6473000" />
+      <workItem from="1600714832835" duration="1683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="379" key="GridCell.Tab.0.bottom" timestamp="1600028100526">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.0.bottom/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100526" />
+    <state width="1877" height="379" key="GridCell.Tab.0.center" timestamp="1600028100526">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.0.center/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100526" />
+    <state width="1877" height="379" key="GridCell.Tab.0.left" timestamp="1600028100526">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.0.left/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100526" />
+    <state width="1877" height="379" key="GridCell.Tab.0.right" timestamp="1600028100526">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.0.right/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100526" />
+    <state width="1877" height="379" key="GridCell.Tab.1.bottom" timestamp="1600028100527">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.1.bottom/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100527" />
+    <state width="1877" height="379" key="GridCell.Tab.1.center" timestamp="1600028100527">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.1.center/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100527" />
+    <state width="1877" height="379" key="GridCell.Tab.1.left" timestamp="1600028100527">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.1.left/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100527" />
+    <state width="1877" height="379" key="GridCell.Tab.1.right" timestamp="1600028100527">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.1.right/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100527" />
+    <state width="1877" height="379" key="GridCell.Tab.2.bottom" timestamp="1600028100527">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.2.bottom/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100527" />
+    <state width="1877" height="379" key="GridCell.Tab.2.center" timestamp="1600028100527">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.2.center/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100527" />
+    <state width="1877" height="379" key="GridCell.Tab.2.left" timestamp="1600028100527">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.2.left/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100527" />
+    <state width="1877" height="379" key="GridCell.Tab.2.right" timestamp="1600028100527">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.2.right/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100527" />
+    <state width="1877" height="379" key="GridCell.Tab.3.bottom" timestamp="1600028100527">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.3.bottom/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100527" />
+    <state width="1877" height="379" key="GridCell.Tab.3.center" timestamp="1600028100527">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.3.center/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100527" />
+    <state width="1877" height="379" key="GridCell.Tab.3.left" timestamp="1600028100527">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.3.left/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100527" />
+    <state width="1877" height="379" key="GridCell.Tab.3.right" timestamp="1600028100527">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.3.right/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600028100527" />
+    <state x="1022" y="666" key="RiderGenerateDialog" timestamp="1599665894284">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1022" y="666" key="RiderGenerateDialog/-1920.180.1920.1050/0.0.2560.1410@0.0.2560.1410" timestamp="1599665894284" />
+    <state x="-1920" y="180" width="1936" height="1137" key="dock-window-1" timestamp="1600254962391">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state x="-1920" y="180" width="1936" height="1137" key="dock-window-1/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600102820539" />
+    <state x="-1920" y="180" width="1936" height="1137" key="dock-window-1/-1920.180.1920.1050/0.0.2560.1410@0.0.2560.1410" timestamp="1600254962391" />
+    <state x="936" y="333" key="run.anything.popup" timestamp="1599827664480">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="936" y="333" key="run.anything.popup/-1920.180.1920.1050/0.0.2560.1410@0.0.2560.1410" timestamp="1599827664480" />
+    <state x="-1297" y="407" width="672" height="678" key="search.everywhere.popup" timestamp="1600361091196">
+      <screen x="-1920" y="180" width="1920" height="1050" />
+    </state>
+    <state x="-1297" y="407" width="672" height="678" key="search.everywhere.popup/-1920.180.1920.1050/0.0.2560.1410@-1920.180.1920.1050" timestamp="1600361091196" />
+  </component>
+</project>
